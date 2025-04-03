@@ -1,5 +1,5 @@
 #def capitalize(text):
-    #return text.lower()
+#    return text.lower()
 
 def capitalize(text):
     if not text:
